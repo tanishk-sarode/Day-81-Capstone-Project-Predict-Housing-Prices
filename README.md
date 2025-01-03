@@ -22,7 +22,7 @@
 
 ### Links
 
-- Solution URL: [Capstone Project: Predict Housing Prices](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day81)
+- Solution URL: [Capstone Project: Predict Housing Prices](https://github.com/tanishk-sarode/Day-81-Capstone-Project-Predict-Housing-Prices)
 
 
 ###  Notes
